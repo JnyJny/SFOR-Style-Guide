@@ -23,11 +23,11 @@ If captioning a series of two or three graphic elements:
 	     
 **Hosting:** All art work is hosted at SFOR if possible, avoid external links.
 
-**Dimensions (pixels):** ????
+**Dimensions (pixels):** 1600, 500-600 wide lowest for Feed
 
-**Feature art constraints:** ????
+**Feature art constraints:** 1000w/1000h 
 
-**Cropping:** ????
+**Cropping:** Authors discression
  
 Capitalization
 --
@@ -96,7 +96,7 @@ to share it.
 - Medium: ~ 600 words, 3-8 art elements
 - Long: > 600 words, 8 or more art elements
 
-**Sign off:** ????
+**Sign off:** Teaser for next article if known.
 	    
   
 Punctuation
