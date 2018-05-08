@@ -28,6 +28,8 @@ If captioning a series of two or three graphic elements:
 **Feature art constraints:** 1000w/1000h 
 
 **Cropping:** Authors discression
+
+**Positioning:** Hang from top, stick to the left.
  
 Capitalization
 --
