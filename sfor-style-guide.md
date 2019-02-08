@@ -63,14 +63,16 @@ and link to their SFOR Artist Category. **[maybe too busy? -ejo]**
 	     remainder of the article.
 		 
 Refer to the artist by their first or last name, whichever gives the
-right sense of familiarity.
+right sense of familiarity. Generally, last name.
   
 Posts
 --
 
 **Title:** Always include the artist's name [can be broken to fit post -ejo ]
   
-**View point:** First person
+**View point:** First person singular
+
+**Annoucements/SFOR Informative posts:** First person plural (we)
   
 **Tone:** Positive, enthusastic and warm. 
 
@@ -80,7 +82,7 @@ to share it.
 
 **General Structure:**
 
-1. Intro text
+1. Intro text & separator
 1. art element
 1. discussion
 1. .. repeat
@@ -116,6 +118,28 @@ Punctuation
 **Single quotes:** Titles of things.
   
 **Periods:** Outside of quoted strings (and paranethesis).
+
+**Emojis:** Do not use. Exceptions made for external text.
+
+**Emoticons:** Do not use. Exceptions made for external text.
+
+
+Interview Format
+---
+
+**Questions** Question text bolded, ends in a question mark.
+
+**Answers** Prefix with the name the interviewee for the first question and use initials for the remainder.
+
+Guest Post Introduction Format
+---
+
+**TBD**
+
+Post Tagging
+---
+
+**TBD**
 
 
 Sci-Fi-O-Rama
